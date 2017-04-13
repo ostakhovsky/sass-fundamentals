@@ -17,8 +17,8 @@
 .theme-1 .btn-primary {
   background-color: #9f9;
   border-color: #33ff33;
-  /* luminance(#9f9): 0.5
-   * luminance(white): 0.5
+  /* luminance(#9f9): 0.80598
+   * luminance(white): 1.00001
    */
 }
 
@@ -29,9 +29,10 @@
 .theme-1 .btn-secondary {
   background-color: #3377ff;
   border-color: #0044cc;
-  /* luminance(#3377ff): 0.5
-   * luminance(white): 0.5
+  /* luminance(#3377ff): 0.21199
+   * luminance(white): 1.00001
    */
+  color: white;
 }
 
 .theme-1 .btn-secondary:hover:not(:disabled) {
@@ -41,8 +42,8 @@
 .theme-1 .btn-other {
   background-color: #ff7733;
   border-color: #cc4400;
-  /* luminance(#ff7733): 0.5
-   * luminance(white): 0.5
+  /* luminance(#ff7733): 0.34743
+   * luminance(white): 1.00001
    */
 }
 
@@ -53,8 +54,8 @@
 .theme-1 .btn-other2 {
   background-color: #ff33ff;
   border-color: #cc00cc;
-  /* luminance(#ff33ff): 0.5
-   * luminance(white): 0.5
+  /* luminance(#ff33ff): 0.31007
+   * luminance(white): 1.00001
    */
 }
 
@@ -65,8 +66,8 @@
 .theme-2 .btn-primary {
   background-color: #99f;
   border-color: #3333ff;
-  /* luminance(#99f): 0.5
-   * luminance(white): 0.5
+  /* luminance(#99f): 0.36791
+   * luminance(white): 1.00001
    */
 }
 
@@ -77,8 +78,8 @@
 .theme-2 .btn-secondary {
   background-color: #ff6666;
   border-color: red;
-  /* luminance(#ff6666): 0.5
-   * luminance(white): 0.5
+  /* luminance(#ff6666): 0.31782
+   * luminance(white): 1.00001
    */
 }
 
@@ -89,8 +90,8 @@
 .theme-2 .btn-other {
   background-color: #66ff66;
   border-color: lime;
-  /* luminance(#66ff66): 0.5
-   * luminance(white): 0.5
+  /* luminance(#66ff66): 0.75326
+   * luminance(white): 1.00001
    */
 }
 
@@ -101,8 +102,8 @@
 .theme-2 .btn-other2 {
   background-color: #ffff66;
   border-color: yellow;
-  /* luminance(#ffff66): 0.5
-   * luminance(white): 0.5
+  /* luminance(#ffff66): 0.93745
+   * luminance(white): 1.00001
    */
 }
 
@@ -113,9 +114,10 @@
 .theme-3 .btn-primary {
   background-color: #66f;
   border-color: blue;
-  /* luminance(#66f): 0.5
-   * luminance(white): 0.5
+  /* luminance(#66f): 0.19618
+   * luminance(white): 1.00001
    */
+  color: white;
 }
 
 .theme-3 .btn-primary:hover:not(:disabled) {
@@ -125,9 +127,10 @@
 .theme-3 .btn-secondary {
   background-color: red;
   border-color: #990000;
-  /* luminance(red): 0.5
-   * luminance(white): 0.5
+  /* luminance(red): 0.2126
+   * luminance(white): 1.00001
    */
+  color: white;
 }
 
 .theme-3 .btn-secondary:hover:not(:disabled) {
@@ -137,8 +140,8 @@
 .theme-3 .btn-other {
   background-color: lime;
   border-color: #009900;
-  /* luminance(lime): 0.5
-   * luminance(white): 0.5
+  /* luminance(lime): 0.7152
+   * luminance(white): 1.00001
    */
 }
 
@@ -149,8 +152,8 @@
 .theme-3 .btn-other2 {
   background-color: yellow;
   border-color: #999900;
-  /* luminance(yellow): 0.5
-   * luminance(white): 0.5
+  /* luminance(yellow): 0.92781
+   * luminance(white): 1.00001
    */
 }
 
